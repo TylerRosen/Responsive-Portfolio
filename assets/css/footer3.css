@@ -1,0 +1,11 @@
+footer {
+	bottom: -200px;
+}
+
+
+
+@media screen and (max-width: 1000px) {
+	footer {
+	bottom: -130px;
+	}
+}

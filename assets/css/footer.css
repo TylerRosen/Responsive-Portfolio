@@ -1,0 +1,34 @@
+footer {
+	bottom: -100px;
+}
+
+
+
+@media screen and (max-width: 1000px) {
+	footer {
+	bottom: -600px;
+	}
+}
+
+@media screen and (max-width: 980px) {
+	footer {
+		bottom: -250px;
+	}
+
+}
+
+
+
+@media screen and (max-width: 768px) {
+	footer {
+		bottom: -700px;
+	}
+
+}
+
+@media screen and (max-width: 640px) {
+	footer {
+		bottom: -630px;
+	}
+
+}
